@@ -3,7 +3,7 @@
 
   I have a dream to change the world, to make the world change, to create a new era through code.
 
-  我有一个梦想，改变这个世界，让这个世界变的更变化，通过代码创造新的时代.
+  我有一个梦想，改变这个世界，让这个世界变的多姿多彩，通过代码创造新的时代.
   
   秋风虽起，迎风而行，为了心中的信念
          - 祝在抵达路的末端时，都不会后悔
