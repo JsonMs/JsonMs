@@ -9,6 +9,8 @@
          - 祝在抵达路的末端时，都不会后悔
           
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=JAVA&logoColor=white)
+![Pyhton](https://img.shields.io/badge/-Pyhton-192133?style=flat-square&logo=JAVA&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-192133?style=flat-square&logo=JAVA&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-192133?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
